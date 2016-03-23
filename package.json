@@ -1,0 +1,20 @@
+{
+  "name": "all-the-javascripts",
+  "version": "1.0.0",
+  "description": "learn the javascripts. all of them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelra42/all-the-javascripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelra42/all-the-javascripts/issues"
+  },
+  "homepage": "https://github.com/nelra42/all-the-javascripts#readme"
+}
