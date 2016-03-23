@@ -6,8 +6,8 @@ Variables
   Numbers
   Strings
   Booleans
-  Arrays
-  Objects
+  Arrays - index
+  Objects - keys
 
 conditions
 Loops
@@ -23,6 +23,8 @@ Comparisons
 Switch
 
 Functions
+  callbacks
+  IIFE
 
 Built in Methods
 Math
@@ -34,22 +36,25 @@ Conversion / Cohersion
 
 Regular expressions
 
-
+This
+Bind
+Apply
+Call
 
 ## ES 6
 Block scoping
 
-    let (strict mode only)
-    const
-    function-in-blocks (strict mode only [1])
+  let (strict mode only)
+  const
+  function-in-blocks (strict mode only [1])
 
 Classes (strict mode only)
 Collections
 
-    Map
-    WeakMap
-    Set
-    WeakSet
+  Map
+  WeakMap
+  Set
+  WeakSet
 
 Typed arrays
 Generators
@@ -63,4 +68,3 @@ Arrow Functions
 new.target [2]
 Object.assign
 Spread operator [2]
-
